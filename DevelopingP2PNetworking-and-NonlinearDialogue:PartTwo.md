@@ -1,6 +1,6 @@
 # Developing P2P Networking and Nonlinear Dialogue: Part Two
 
-*Note: This essay continues from [Developing P2P Networking and Nonlinear Dialogue: Part One](https://github.com/gcassel/Essays/blob/master/Developing%20P2P%20Networking%20and%20Nonlinear%20Dialogue:%20Part%20One.md). This text is openly licensed via Creative Commons CC BY 4.0. — Greg*
+*Note: This essay continues from [Developing P2P Networking and Nonlinear Dialogue: Part One](https://github.com/gcassel/Essays/blob/master/DevelopingP2PNetworking-and-NonlinearDialogue:PartOne.md). This text is openly licensed via Creative Commons CC BY 4.0. — Greg*
 
 ## Three Keys to P2P Networking and Nonlinear Dialogue
 
