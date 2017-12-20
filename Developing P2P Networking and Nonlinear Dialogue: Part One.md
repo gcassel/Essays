@@ -123,4 +123,4 @@ Desires to brand, monetize and monopolize ideas result in herculean persuasive e
 
 I believe that our shared mediascapes already contain too much cleverness, convoluted argument and emotionally imploring rhetoric! Instead of adding to it, we desperately need to identify reasonably shared *focus* and *priorities*, in each community of sincerely shared ideas. We need tools which help us to identify mutually valuable ideas and *modular systems* of ideas and information.
 
-## *[Part Two](https://medium.com/@gregcassel_21265/developing-p2p-networking-and-nonlinear-dialogue-part-two-887698b6b650)* describes some ideas for addressing these shared challenges.
+## *[Part Two](https://github.com/gcassel/Essays/blob/master/DevelopingP2PNetworking-and-NonlinearDialogue:PartTwo.md)* describes some ideas for addressing these shared challenges.
