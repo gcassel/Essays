@@ -1,6 +1,6 @@
 # Developing P2P Networking and Nonlinear Dialogue: Part One
 
-This is a personal creative manifesto. I hope to serve all people’s interests via priorities and processes outlined here. This text is openly licensed via [Creative Commons CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). — Greg
+This is a personal manifesto outlining my most urgent creative motivations, priorities and processes. This text is openly licensed via [Creative Commons CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). — Greg
 
 ## Our Common Challenges
 
