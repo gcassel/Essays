@@ -84,27 +84,29 @@ Here are some of my main open source documents related to the concerns and goals
 * [Modular Organization Terminology](https://github.com/gcassel/Modular-Organization-Terminology)
 * [Peer-to-Peer Digital Networking](https://docs.google.com/document/d/1O7tJQVMHETSoWRpYC9eYsqi58ELL0Euv6L6d21LC6m0/edit?usp=sharing)
 * [Agreement-Based Governance](https://docs.google.com/document/d/1c_xWEIay-2jyJ3Rqb6OgTxoZBJfjNW4d6w6ukXyeJk4/edit?usp=sharing)
-* P2P Media Network Governance
-* Open Intermedia Commons
-* Semantic Corating
-* Covalence Prototype
-* Consensus Calculus
-* Open Ongoing Crowdfunding
-* Community Markup Language
-* Resource Development and Support System
+* [P2P Media Network Governance](https://docs.google.com/document/d/1cU0557pbNOAI2eco2Ura3HXdxC2v-SJBWMHYaGMHMtA/edit?usp=sharing)
+* [Open Intermedia Commons](https://docs.google.com/document/d/1e8MJUhsQUhRD4_xzepsoqBu4jX-nZYy7Pf2OqbCY--o/edit?usp=sharing)
+* [Semantic Corating](https://docs.google.com/document/d/1VTR1QFY6ifeMp0WxeTHr59sVAfbjt6lXwxk1faglSm8/edit?usp=sharing)
+* [Covalence Prototype](https://docs.google.com/document/d/1Uo4N-D3y3mhRx6kGTDpkDg7t5kS0AAYqz5_aIKDG6sk/edit?usp=sharing)
+* [Consensus Calculus](https://docs.google.com/document/d/1G8ZLHB3ZjAoBqiykwOzFWBoAgma9viCT9Np0fyaSxsA/edit?usp=sharing)
+* [Open Ongoing Crowdfunding](https://docs.google.com/document/d/1ffhvDL3cbuvOh3ENqTOFSu-Pg_LPlhe8-ezTCqQ_x2Y/edit?usp=sharing)
+* [Community Markup Language](https://docs.google.com/document/d/1H55a5TncjaXhyBi9Bf-Uwslce5_FRhOY3BUk5t1rbRg/edit?usp=sharing)
+* [Resource Development and Support System](https://docs.google.com/drawings/d/1YG-C8xxFFzN3o8fOOrQbAKlBoKf-ZHvhBKe6i7a8m7w/edit?usp=sharing)
 
-Also, I contribute gladly to Value Flows. VF is closely aligned with my goals, but it’s strictly (and smartly) focused on economic networking.
+Also, I contribute gladly to [Value Flows](https://www.valueflo.ws/). VF is closely aligned with my design goals, but it’s strictly (and smartly) focused on economic networking.
 
-I’m also the primary author of Enspiral’s Personal Conduct Agreement and Harassment and Abuse Policy, although I left the creative team before the official adoption of those agreements. I plan to adapt draft documents for use by diverse communities.
-Coordination Potentials
+I’m also the primary author of Enspiral’s [Personal Conduct Agreement](https://handbook.enspiral.com/agreements/personal_conduct.html) and [Harassment and Abuse Policy](https://handbook.enspiral.com/agreements/harassment_and_abuse.html), although I left the creative team before the official adoption of those agreements. I plan to adapt draft documents for use by diverse communities.
+
+### Coordination Potentials
 
 If much of this text resonates with you, I desire dialogue!
 
-I welcome public commentary on the links I’ve shared above, for anyone who feels comfortable with that. Of course, comment threads are limited — and while I’m devoted to working for the public and mostly in public, you may have excellent reasons to privately share your ideas, questions or concerns. So feel free to email me, especially if you perceive compatibility in our work! I’ll explore descriptive info or links, and we’ll talk by voice too if we should.
+I welcome public commentary on the links I’ve shared above, for anyone who feels comfortable with that. Of course, comment threads are limited — and while I’m devoted to working for the public and mostly in public, you may have excellent reasons to privately share your ideas, questions or concerns. So feel free to [email me](mailto:greg.cass1@gmail.com), especially if you perceive compatibility in our work! I’ll explore descriptive info or links, and we’ll talk by voice too if we should.
 
-If you want to directly collaborate on anything, let me know! Understand however that I’m deeply committed to consent-based decision process, including all major planning and investment of shared resources. In fact, it’s probably a good idea to read all of Agreement-Based Governance before proposing any (potentially lengthy) collaboration.
-Personal Wishes
+If you want to directly collaborate on anything, let me know! Understand however that I’m deeply committed to *consent-based decision process*, including all major planning and investment of shared resources. In fact, it’s probably a good idea to read all of [Agreement-Based Governance](https://docs.google.com/document/d/1c_xWEIay-2jyJ3Rqb6OgTxoZBJfjNW4d6w6ukXyeJk4/edit?usp=sharing) before proposing any (potentially lengthy) collaboration.
 
-I’m committed to the long road here: just a brief bit of human history, perhaps, but a critically complex transition which will surely include creative tensions. My distinctively focused design goals may at times contradict well-planned and well-designed projects. I want each person to know that I respect all sincere creative effort, and I hope that no one takes creative conflicts too personally. I’m just trying my best to help build sustainably distributed systems for all people.
+### Personal Wishes
+
+I’m committed to the long road here: just a brief bit of human history, perhaps, but a critically complex transition which will surely include creative tensions. My distinctively focused design goals may contradict some well-planned and well-designed projects. I want each individual to know that I respect *all* sincere creative effort, and I hope that no one takes any creative conflicts too personally. I’m just trying my best to help build sustainably distributed systems for all people.
 
 Regardless of whether any of us coordinate or collaborate, no one can own or control the goals which I’ve described here — not even in part. As Bob Haugen from Value Flows says, we’re all working on the same project. I think it’s just a question of when we realize that! I wish you all well and I look forward to collaborating directly or indirectly, sooner or later. :)
