@@ -1,3 +1,5 @@
+*First published on [Medium](https://medium.com/@gregcassel_21265/developing-p2p-networking-and-nonlinear-dialogue-part-one-b1a38fd0c0b6) December 15, 2017*
+
 # Developing P2P Networking and Nonlinear Dialogue: Part One
 
 This is a personal manifesto outlining my most urgent creative motivations, priorities and processes. This text is openly licensed via [Creative Commons CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). — Greg
