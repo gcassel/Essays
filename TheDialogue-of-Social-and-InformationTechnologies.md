@@ -93,53 +93,20 @@ Some emerging trends in transdisciplinary commons-related thinking:
 * **[Decentralization](https://en.wikipedia.org/wiki/Decentralization)**
 * **[Federated](https://en.wikipedia.org/wiki/Federation) social structures**
 * **Fractal organization**
-We can pursue these concepts in open networks and in tightly managed projects. I believe that by doing so, we may gradually dissolve artificial distinctions, and find true community.
+
+We can pursue these concepts in open networks *and* in tightly managed projects. I believe that by doing so, we may gradually dissolve artificial distinctions, and find true community.
 
 ## The dialogue we need
-As innovative thinkers have pursued big concepts like decentralization, federation and fractals — and faced big problems, such as consumerism and financialism — I’ve come to perceive the unstated difference between social technology and information technology as a source of some confusions and tensions.
+As innovative thinkers have pursued big concepts like decentralization, federation and fractals — and faced big problems, such as consumerism and [financialism](http://www.forbes.com/2011/02/24/destroy-american-dream-leadership-leaders-financialism.html) — I’ve come to perceive the unstated difference between social technology and information technology as a source of some confusions and tensions.
 
 Collaborative software serves as an interface of social technology and information technology. It inevitably straddles both worlds with a dialogue between the desired and the currently possible. That dialogue can improve, and extend, indefinitely.
 
 Communities don’t need designers to tell them what kind of social technology they want, or should want. Likewise, designers don’t need to unconditionally limit themselves to the desires of current communities.
 
-Key thinkers in software, and other disciplines, envision an open system of tools and apps to serve humanity in general. Not specific clients, investors or communities, but humanity. At such a broad level of ambition, I think that real communities and real designers must challenge each other to help evolve organizational models, information technology, and software together.
+Key thinkers in software, and other disciplines, envision an open system of tools and apps to serve humanity in general. Not specific clients, investors or communities, but *humanity*. At such a broad level of ambition, I think that real communities and real designers must challenge each other to help evolve organizational models, information technology, *and* software together.
 
 If we can do this, I believe we can turn my previous, ominous McLuhan quote on its head with an older saying:
 
-The best way to predict the future is to create it.
-Some rights reserved
-P2pSoftware DevelopmentSustainability
-One clap, two clap, three clap, forty?
-By clapping more or less, you can signal to us which stories really stand out.
+### The best way to predict the future is to create it.
 
-Go to the profile of Greg S. Cassel
-Greg S. Cassel
-P2P networking design, consciousness-raising and practivism. Protocols>platforms, communication>control. https://github.com/gcassel
-
-Enspiral Tales
-Enspiral Tales
-Stories from a bold experiment — creating a collaborative network that helps people do meaningful work.
-
-More from Enspiral Tales
-Blending Youth Wellbeing, Codesign and Social/Systems Entrepreneurship
-Go to the profile of Sam Rye
-Sam Rye
-More from Enspiral Tales
-The Beautiful Trap of Belonging
-Go to the profile of Richard D. Bartlett
-Richard D. Bartlett
-More from Enspiral Tales
-Good Programmers Know More About Feelings Than Computers
-Go to the profile of Piet Geursen
-Piet Geursen
-Responses
-1 response to your storyManage responses
-Applause from you
-Go to the profile of Simon Grant
-Simon Grant
-Jul 25, 2016
-complete ecosystem of freely available, interoperable social tools and technologies
-And what we could call “Open Commons Norms” would develop the technical (and other, but that’s a longer story) norms and standards in a truly p2p manner. Harmonization of the commons, by the commons, for the commons. So many applications.
-
-Next story
-When values collide
+###### [Some rights reserved](https://creativecommons.org/licenses/by-sa/4.0/)
