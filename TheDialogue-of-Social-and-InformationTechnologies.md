@@ -109,4 +109,4 @@ If we can do this, I believe we can turn my previous, ominous McLuhan quote on i
 
 ### The best way to predict the future is to create it.
 
-###### [Some rights reserved](https://creativecommons.org/licenses/by-sa/4.0/)
+###### *[Some rights reserved](https://creativecommons.org/licenses/by-sa/4.0/)*
