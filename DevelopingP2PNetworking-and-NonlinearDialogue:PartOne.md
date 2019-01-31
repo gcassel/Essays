@@ -12,7 +12,7 @@ We the people of Earth all share many needs, potentials and problems.
 
 Humanity must develop broadly tolerant, compassionate culture and sustainable energy systems *while* we inevitably automate all clearly predictable labor. Failure to develop compassionate culture *and* sustainable energy during these critical times would almost surely result in dystopian collapse or global extinction.
 
-An Imperative: To meet humanity’s urgent shared needs, I believe that we quickly *must* unlock the boundless potentials of peer-to-peer (p2p) digital networking. We’ll need p2p tools and techniques to inclusively redesign our overly centralized, exploitative systems into communities which are sustainably distributed and locally adaptive.
+**An Imperative:** To meet humanity’s urgent shared needs, I believe that we quickly *must* unlock the boundless potentials of peer-to-peer (p2p) digital networking. We’ll need p2p tools and techniques to inclusively redesign our overly centralized, exploitative systems into communities which are sustainably distributed and locally adaptive.
 
 ### Potentials
 
@@ -99,7 +99,8 @@ Some of those friends and strangers, of course, “drink the same Kool-Aid” th
 Nonetheless, we should recognize that effective monologues can be deeply valuable! They require strongly integrative thinking and compositional skill. However, communication (and language itself) grew out of dialogue: the rapid exchange of ideas; comparison and contrast; thesis, antithesis and synthesis. Effective communication must *strike a balance* between personal reflection, exchange, and the incorporation of evolving ideas into discussion and decision processes.
 
 Such rich interactivity, unfortunately, is precisely where our written exchanges have failed us! With developing digital technologies, however, that problem is no longer inevitable. (More on that later.)
-Polarizing media metrics
+
+**Polarizing media metrics**
 
 The massively scaling social potential of our online interactions has been corrupted by the prominence of simplistic media metrics. The prominence of simplistic metrics has *fundamentally favored* the use of controversial, polarizing media to promote ideas, activities and products.
 
