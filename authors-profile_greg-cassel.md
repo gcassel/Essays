@@ -16,7 +16,7 @@ I develop modular organizing language and open source, interoperable protocols a
 		
 #### [P2P Modular Organizing Framework](https://docs.google.com/drawings/d/1KZpc4_98IrJ0cjcFpkL5TcBug63fsTrT6i5eL2j5z80/edit?usp=sharing)  (MOF)
 	
-MOF is the most comprehensive directory for my p2p works so far.  It's a visual directory based on levels of conceptual organizing (language, recipe, plan and governance) which integrate most of my p2p collaborative frameworks, as well as a models for community ecosystems, distributed computing and collective media markup language.
+MOF is the most comprehensive directory for my p2p frameworks.  It's a visual directory based on levels of conceptual organizing (*language, recipe, plan and governance*) which integrate most of my p2p frameworks as well as models for community ecosystems and distributed computing.
 
 ##### [Modular Organizing Terminology](https://github.com/gcassel/Modular-Organizing-Terminology) (MOT)
 	
