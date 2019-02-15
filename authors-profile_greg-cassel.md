@@ -56,13 +56,12 @@ IGF builds on the organizing kernel of (ICP) with collective levels of organizin
 
 IGF is ambitiously meant to enable consent-based collectives and networks to scale to any possible size and complexity.  It could become my most important work, although it depends heavily on others.
 		
-#### [Collective Media Markup Language](https://docs.google.com/document/d/1H55a5TncjaXhyBi9Bf-Uwslce5_FRhOY3BUk5t1rbRg/edit?usp=sharing) (CMML), Structured Conversation and [Collective Resource Description Framework](https://github.com/gcassel/Models/blob/master/collective-resource-description-framework.md)
+#### [Collective Media Markup Language](https://docs.google.com/document/d/1H55a5TncjaXhyBi9Bf-Uwslce5_FRhOY3BUk5t1rbRg/edit?usp=sharing) (CMML), Structured Conversation and [Collective Resource Description Framework](https://github.com/gcassel/Models/blob/master/collective-resource-description-framework.md) (CRDF)
 	
 These are major works for digital networking in general, although only indirectly relevant to my focus on social standards.
 		
-CMML suggests protocols to attach metadata to media resources, to develop more intelligent and effective p2p distributed databases. CMML currently includes Structured Conversation, which suggests standards for organizing and networking conversations for action. 
-		
-CRDF is a potential output of CMML, enabling specific media items to be as portable as possible.
+* *CMML* suggests protocols to attach metadata to media resources, to develop more intelligent and effective p2p distributed databases. CMML currently includes Structured Conversation, which suggests standards for organizing and networking conversations for action. 
+* *CRDF* is a potential output of CMML, enabling specific media items to be as portable as possible.
 					
 ### Other Collective Goals
 * *[see link](https://github.com/gcassel/Essays/blob/master/collective-goals.md)*
