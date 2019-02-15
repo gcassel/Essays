@@ -64,8 +64,8 @@ CMML suggests protocols to attach metadata to media resources, to develop more i
 		
 CRDF is a potential output of CMML, enabling specific media items to be as portable as possible.
 					
-### [Collective Goals](https://github.com/gcassel/Essays/blob/master/collective-goals.md) 
-* see link above
+### [Collective Goals]
+* *[see link](https://github.com/gcassel/Essays/blob/master/collective-goals.md)*
 
 
 
