@@ -6,7 +6,7 @@ Greg Cassel, Greg S. Cassel
 	
 [email](mailto:greg.cass1@gmail.com), [github](https://github.com/gcassel), [Medium](https://medium.com/@gregcassel_21265), [twitter](https://twitter.com/gregsc1), [fb](https://www.facebook.com/gscassel)
 
-### Personal Intro
+### About Me
 	
 I'm an artist and philosopher who's gradually become a peer-to-peer systems designer and facilitator, through many painful learning experiences in volunteer-led projects.  "The final suggestion, the final statement, has to be not a deliberate statement but a helpless statement. It has to be what you can't avoid saying."  -- Jasper Johns
 	
