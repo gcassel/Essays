@@ -10,7 +10,7 @@ Greg Cassel, Greg S. Cassel
 	
 I'm an artist and philosopher who's gradually become a peer-to-peer systems designer and facilitator, through many painful learning experiences in volunteer-led projects.  "The final suggestion, the final statement, has to be not a deliberate statement but a helpless statement. It has to be what you can't avoid saying."  -- Jasper Johns
 	
-I develop modular organizing language and open source, interoperable protocols and collaborative frameworks.  I'm deeply concerned with digital networking tech, but I prioritize social standards which integrate consent-based organizing, compassionate communications and transformative justice.
+I develop modular organizing language and open source, interoperable protocols and collaborative frameworks.  I'm deeply concerned with digital networking tech, but I prioritize *culture and social standards* which integrate consent-based organizing, compassionate communications and transformative justice.
 	
 ### Current Main Works
 		
