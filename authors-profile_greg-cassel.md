@@ -4,7 +4,7 @@ Greg Cassel, Greg S. Cassel
 	
 ### Contact Info
 	
-[email](mailto:greg.cass1@gmail.com)/ [github](https://github.com/gcassel) [Medium](https://medium.com/@gregcassel_21265)/ [twitter](https://twitter.com/gregsc1)/ [fb](https://www.facebook.com/gscassel)
+[email](mailto:greg.cass1@gmail.com), [github](https://github.com/gcassel), [Medium](https://medium.com/@gregcassel_21265), [twitter](https://twitter.com/gregsc1), [fb](https://www.facebook.com/gscassel)
 
 ### Personal Intro
 	
