@@ -28,17 +28,17 @@ As of February 2019, MOT includes over 550 heavily cross-linked definitions. It 
 		
 CBG is a set of principles and practices for developing consent-based agreements and collectives.  In consent-based governance, all tools and techniques which restrict the use of collective resources, or modify such restrictions, should be determined by the direct written consent of each of the collective’s active member-agents.
 		
-CBG is a radical evolution of anarchism theory.   I think such theory is now feasible and urgently important for humanity, via the modular and networked organizing which I suggest in Inclusive Network Governance and other works.
+CBG is a radical evolution of anarchism theory.   I think such theory is now feasible and urgently important for humanity, via the modular and networked organizing which I suggest in IGF and other works.
 		
 #### [Resource Support Framework](https://docs.google.com/drawings/d/1frX5ay_adnhdmaSbqCr-Z63_f1o7xyZN4e8IdI2hcts/edit?usp=sharing) (RSF)
 
-RSF is a generic system for the development and support of shared resources.  RSF integrates subsidiary models for Personal Experience, Inclusive Dialogue, (((Inclusive Design Framework))) and Social Support Systems.  RSF integrates compassionate conflict resolution and transformative justice principles.
+RSF is a generic system for the development and support of shared resources.  RSF integrates subsidiary models for Personal Experience, Inclusive Dialogue, Inclusive Design (IDF) and Social Support Systems.  RSF integrates compassionate conflict resolution and transformative justice principles.
 
 #### [Inclusive Design Framework](https://docs.google.com/document/d/1E5V8LggadbbAaJw9tK_OT22VyciO4OE9ml1fiXYyfmk/edit?usp=sharing)  (IDF)
 	
 IDF suggests a standardized cyclical process for inclusively developing any specific resources, including goals and media items.  IDF includes but transcends governance; it suggests ongoing co-creative dialogue between designers, collectives and communities.
 		
-IDF functions as a primary component of (RSF).   IDF also functions as a basic suggested protocol for inclusively developing proposals in CBG.
+IDF functions as a primary component of (RSF). IDF also functions as a basic suggested protocol for inclusively developing proposals in CBG.
 		
 #### [Inclusive Meeting and Event Framework](https://docs.google.com/document/d/1bsobPV43r4rZ1GBkxmtwl1j7Zdn6qQhJZD0ta85Kw2I/edit?usp=sharing) (IMEF)
 	
