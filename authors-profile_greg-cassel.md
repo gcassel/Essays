@@ -20,7 +20,7 @@ I develop modular organizing language and open source, interoperable protocols a
 	
 MOF is the most comprehensive directory for my p2p frameworks.  It's a visual directory based on levels of conceptual organizing (*language, recipe, plan and governance*) which integrate most of my p2p frameworks as well as models for community ecosystems and distributed computing.
 
-* ##### [Modular Organizing Terminology](https://github.com/gcassel/Modular-Organizing-Terminology) (MOT)
+* #### [Modular Organizing Terminology](https://github.com/gcassel/Modular-Organizing-Terminology) (MOT)
 	
 MOT is a general terminology for organizing and design.  It's essential for fostering clarity and consistency in my creative processes, including all of my p2p organizing models.
 		
