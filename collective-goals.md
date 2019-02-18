@@ -6,7 +6,7 @@ Open Intermedia Commons (OIC) will be an open standard, community, and a network
 
 #### Transformative Talks
 
-* a [Bridge the Divide](https://www.facebook.com/groups/bridgethedivide/) equivalent, but including live talks-- and not on facebook-- for bridging discussions on challenging social & political issues
+A [Bridge the Divide](https://www.facebook.com/groups/bridgethedivide/) equivalent, but not on facebook, and including live empathy-building talks.  For bridging discussions on challenging social & political issues.
 
 #### [UUA](https://www.uua.org/) Resources
 * help UUA (I'm a member) develop its online resources
