@@ -10,7 +10,7 @@ Greg Cassel, Greg S. Cassel
 
 #### About Me
 	
-I'm an artist and philosopher who's gradually become a peer-to-peer systems designer and facilitator, through many painful learning experiences in volunteer-led projects.  "The final suggestion, the final statement, has to be not a deliberate statement but a helpless statement. It has to be what you can't avoid saying."  -- Jasper Johns
+I'm an artist and philosopher who has gradually become a peer-to-peer systems designer and facilitator, through many painful learning experiences in volunteer-led projects.  "The final suggestion, the final statement, has to be not a deliberate statement but a helpless statement. It has to be what you can't avoid saying."  -- Jasper Johns
 	
 I develop modular organizing language and open source, interoperable protocols and collaborative frameworks.  I'm deeply concerned with digital networking tech, but I prioritize *culture* and *social standards* which integrate consent-based organizing, compassionate communications and transformative justice.
 	
@@ -30,7 +30,7 @@ As of February 2019, MOT includes over 550 heavily cross-linked definitions. Som
 		
 CBG is a set of principles and practices for developing consent-based agreements and collectives.  In consent-based governance, all tools and techniques which restrict the use of collective resources, or modify such restrictions, should be determined by the direct written consent of each of the collective’s active member-agents.
 		
-CBG is a radical evolution of anarchism theory.   I think such theory is now feasible and urgently important for humanity, via the modular and networked organizing which I suggest in IGF and other works.
+CBG is a radical evolution of anarchism theory.   I think that anarchism is urgently important and *now feasible at massively networked scales*, via the modular networking which I suggest in IGF and other works.
 		
 #### [Resource Support Framework](https://docs.google.com/drawings/d/1frX5ay_adnhdmaSbqCr-Z63_f1o7xyZN4e8IdI2hcts/edit?usp=sharing) (RSF)
 
