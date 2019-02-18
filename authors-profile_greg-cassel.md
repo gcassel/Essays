@@ -63,7 +63,7 @@ IGF is ambitiously meant to enable consent-based collectives and networks to sca
 These are major works for digital networking in general, although only indirectly relevant to my focus on social standards.
 		
 * *CMML* suggests protocols to attach metadata to media resources, to develop more intelligent and effective p2p distributed databases. CMML currently includes Structured Conversation, which suggests standards for organizing and networking conversations for action. 
-* *CRDF* is a potential output of CMML, enabling specific media items to be as portable as possible.
+* *CRDF* is a potential output of CMML, enabling specific media items to be as portable as possible for fully distributed computing and networking.
 					
 ### Other Collective Goals
 * *[see link](https://github.com/gcassel/Essays/blob/master/collective-goals.md)*
