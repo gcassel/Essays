@@ -1,4 +1,4 @@
-*This document lists my current major [collective](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/compound-terms/group-agent.md) goals, outside of existing team projects and my (primary) work to develop p2p organizing frameworks.*
+*This document lists my current major [collective](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/compound-terms/group-agent.md) goals, outside of existing team projects and my (primary) work to develop p2p collaborative frameworks.*
 
 #### [Open Intermedia Commons](https://docs.google.com/document/d/1RfXaOCg4VBZ2tcKu1tjBPIkabGruSLueH4T4g_8cWTs/edit?usp=sharing)
 
