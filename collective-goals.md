@@ -8,19 +8,22 @@ Open Intermedia Commons (OIC) will be an open standard, community, and a network
 
 A [Bridge the Divide](https://www.facebook.com/groups/bridgethedivide/) equivalent, but not on facebook, and including live empathy-building talks.  For bridging discussions on challenging social & political issues.
 
-#### [UUA](https://www.uua.org/) Resources
-* help UUA (I'm a member) develop its online resources
+#### UUA Resources
+
+I hope to help [Unitarian Universalism Association](https://www.uua.org/) (I'm a member) develop its online resources through increasingly [inclusive design process](https://github.com/gcassel/Models/blob/master/inclusive-design-framework.md).
 
 #### Basic Needs
-* develop collectives which co-generate commonly guaranteed basic needs, such as: housing, food, education, medical care, and/or income
+ 
+Help develop collectives which co-generate commonly guaranteed basic needs, such as: housing, food, education, medical care, and/or income.   (Starting with small teams, and potentially scaling to globally guaranteed needs.)
 
 #### Local Landscapes
 
-   * federation of collectives supporting a well-developed open standard for native plant landscaping, native wildlife habitat and conservation easements
+A federation of collectives supporting a well-developed open standard for native plant landscaping, native wildlife habitat and conservation easements. Focused on protecting at-risk native plants and animals, especially pollinators.
 	
 ### Interactive Multimedia Mapping and Storytelling 
 		
-   * Maine Waters  
-      * and/or Southeastern Waters
+#### Maine Waters  
+* and/or Southeastern Waters
+* use metadata markup language to generate search, sort, filter and divergent multimedia storytelling sequences expressing the water cycle and related biomes from mountaintops to open ocean.
 
-   * [Penumbral](https://github.com/gcassel/Models/blob/master/penumbral.md)
+#### [Penumbral](https://github.com/gcassel/Models/blob/master/penumbral.md) *(see link*)
