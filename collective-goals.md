@@ -24,6 +24,6 @@ A federation of collectives supporting a well-developed open standard for native
 		
 #### Maine Waters  
 * and/or Southeastern Waters
-* use metadata markup language to generate search, sort, filter and divergent multimedia storytelling sequences expressing the water cycle and related biomes from mountaintops to open ocean.
+* develop a collaborative database and use metadata markup language to generate search, sort, filter and divergent multimedia storytelling sequences expressing the water cycle and contiguous biomes from mountaintops to open ocean.
 
 #### [Penumbral](https://github.com/gcassel/Models/blob/master/penumbral.md) *(see link*)
