@@ -40,13 +40,13 @@ RSF is a generic system for the development and support of shared resources.  RS
 	
 IDF suggests a standardized cyclical process for inclusively developing any specific resources, including goals and media items.  IDF includes but transcends governance; it suggests ongoing co-creative dialogue between designers, collectives and communities.
 		
-IDF functions as a primary component of (RSF). IDF also functions as a basic suggested protocol for inclusively developing proposals in CBG.
+IDF functions as a primary component of RSF. IDF also functions as a basic suggested protocol for inclusively developing proposals in CBG.
 		
 #### [Inclusive Meeting and Event Framework](https://docs.google.com/document/d/1bsobPV43r4rZ1GBkxmtwl1j7Zdn6qQhJZD0ta85Kw2I/edit?usp=sharing) (IMEF)
 	
 IMEF is a basic co-creative framework and recipe for hosting and facilitating inclusive discussion and design meetings and events with inputs from many co-creative peers.  
 		
-IMEF functions in (IDF) to coordinate relationships between events and asynchronous, sequential processes.
+IMEF functions in IDF to coordinate relationships between events and asynchronous, sequential processes.
 	
 #### [Inclusive Channel Policy](https://docs.google.com/document/d/1w9OkvXv7A89bySQT9e8iFWWp1TIkhUCUpTI6PwRpX20/edit?usp=sharing) (ICP)
 		
@@ -54,7 +54,7 @@ ICP can serve as a practical constitution for media channels which aren’t atta
 	
 #### [Inclusive Governance Framework](https://docs.google.com/document/d/1cU0557pbNOAI2eco2Ura3HXdxC2v-SJBWMHYaGMHMtA/edit?usp=sharing) (IGF)
 
-IGF builds on the organizing kernel of (ICP) with collective levels of organizing.  IGF describes a general Guest/Contributor/Member/Steward participation model, meant to facilitate consent-based governance of complex collectives and of their media networks.
+IGF builds on the organizing kernel of ICP with collective levels of organizing.  IGF describes a general Guest/Contributor/Member/Steward participation model, meant to facilitate consent-based governance of complex collectives and of their media networks.
 
 IGF is ambitiously meant to enable consent-based collectives and networks to scale to any possible size and complexity.  It could become my most important work, although it depends heavily on others.
 		
