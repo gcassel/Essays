@@ -10,7 +10,7 @@ Greg Cassel, Greg S. Cassel
 
 #### About Me
 	
-###### I'm an artist and philosopher who gradually became a *peer-to-peer systems designer and facilitator*, through many painful learning experiences in underachieving teams.  I develop modular organizing language and open source, interoperable organizing protocols and frameworks.  I'm deeply concerned with digital networking tech, but I prioritize *culture* and *social standards* which integrate consent-based organizing, compassionate communications and transformative justice.
+###### I'm an artist and philosopher who gradually became a *peer-to-peer systems designer and facilitator*, through many painful learning experiences in underachieving teams.  I develop *modular organizing language* and open source, interoperable *organizing frameworks and protocols*.  I'm deeply concerned with digital networking tech, but I prioritize *culture* and *social standards* which integrate consent-based organizing, compassionate communications and transformative justice.
 	
 ### Current Main Works: P2P Organizing Frameworks
 		
