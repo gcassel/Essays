@@ -20,7 +20,7 @@
 
 #### [Modular Organizing Terminology](https://github.com/gcassel/Modular-Organizing-Terminology) (MOT)
 	
-###### MOT is a general terminology for organizing and design.  It's essential for fostering clarity and consistency in my creative processes, including all of my p2p organizing models.
+###### MOT is a generalized formal vocabulary for organizing and design.  It's essential for fostering clarity and consistency in my creative processes, including all of my p2p organizing models.
 		
 ###### As of February 2019, MOT includes over 550 heavily cross-linked definitions. Some version of it could become practically usable as a formal language unto itself, if some basic grammar and semantic links were refined for that purpose.	
 
