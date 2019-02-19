@@ -24,7 +24,7 @@ I develop modular organizing language and open source, interoperable organizing 
 	
 ###### MOT is a general terminology for organizing and design.  It's essential for fostering clarity and consistency in my creative processes, including all of my p2p organizing models.
 		
-###### ###### As of February 2019, MOT includes over 550 heavily cross-linked definitions. Some version of it could become practically usable as a formal language unto itself, if some basic grammar and semantic links were refined for that purpose.	
+###### As of February 2019, MOT includes over 550 heavily cross-linked definitions. Some version of it could become practically usable as a formal language unto itself, if some basic grammar and semantic links were refined for that purpose.	
 
 #### [Consent-Based Governance](https://docs.google.com/document/d/1c_xWEIay-2jyJ3Rqb6OgTxoZBJfjNW4d6w6ukXyeJk4/edit?usp=sharing) (CBG)
 		
