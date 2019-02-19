@@ -44,7 +44,7 @@
 	
 ###### IMEF is a basic co-creative framework and recipe for hosting and facilitating inclusive discussion and design meetings and events with many p2p inputs.  
 		
-###### IMEF performs a crucial function in IDF to coordinate relationships between live events and asynchronous, sequential processes.
+###### IMEF functions in IDF to coordinate relationships between live events and asynchronous, sequential processes.
 	
 #### [Inclusive Channel Policy](https://docs.google.com/document/d/1w9OkvXv7A89bySQT9e8iFWWp1TIkhUCUpTI6PwRpX20/edit?usp=sharing) (ICP)
 		
