@@ -26,7 +26,7 @@
 
 #### [Consent-Based Governance](https://docs.google.com/document/d/1c_xWEIay-2jyJ3Rqb6OgTxoZBJfjNW4d6w6ukXyeJk4/edit?usp=sharing) (CBG)
 		
-###### CBG is a set of principles and practices for developing consent-based agreements and collectives/ organizations.  In consent-based governance, *all* tools and techniques which restrict the use of collective resources, or modify such restrictions, should be determined by the direct written consent of each of the collective’s active governing members.
+###### CBG is a framework of principles and practices for developing consent-based agreements and collectives/ organizations.  In consent-based governance, *all* tools and techniques which restrict the use of collective resources, or modify such restrictions, should be determined by the direct written consent of each of the collective’s active governing members.
 		
 ###### CBG is a radical evolution of anarchism theory, meant to scale for a digitally networked world.  I think that anarchism is urgently important and *now feasible* at massively networked scales, via the modular networking which I suggest in IGF (see below) and other works.
 		
