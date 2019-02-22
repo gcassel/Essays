@@ -4,15 +4,13 @@
 
 This is a personal manifesto outlining my most urgent creative motivations, priorities and processes. This text is openly licensed via [Creative Commons CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). — Greg
 
-## Our Common Challenges
+## Our Shared Challenges
 
-We the people of Earth all share many needs, potentials and problems.
+We the people of Earth all share many potentials and problems.
 
-### Needs
+**The Great Transition:** Humanity must develop broadly tolerant, compassionate culture and sustainable energy systems *while* we inevitably automate all clearly predictable labor. Failure to develop compassionate culture *and* sustainable energy during these critical times would almost surely result in dystopian collapse or global extinction.
 
-Humanity must develop broadly tolerant, compassionate culture and sustainable energy systems *while* we inevitably automate all clearly predictable labor. Failure to develop compassionate culture *and* sustainable energy during these critical times would almost surely result in dystopian collapse or global extinction.
-
-**An Imperative:** To meet humanity’s urgent shared needs, I believe that we quickly *must* unlock the boundless potentials of peer-to-peer (p2p) digital networking. We’ll need p2p tools and techniques to inclusively redesign our overly centralized, exploitative systems into communities which are sustainably distributed and locally adaptive.
+**The P2P Imperative:** To meet humanity’s urgent shared needs, I believe that we quickly *must* unlock the boundless potentials of peer-to-peer (p2p) digital networking. We’ll need p2p tools and techniques to inclusively redesign our overly centralized, exploitative systems into communities which are sustainably distributed and locally adaptive.
 
 ### Potentials
 
