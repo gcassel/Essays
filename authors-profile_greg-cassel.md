@@ -10,9 +10,9 @@
 
 #### About Me
 	
-###### I'm an artist and philosopher who gradually became a *peer-to-peer systems designer and facilitator*, through many painful learning experiences in underachieving teams.  I develop *modular organizing language* and open source, interoperable *organizing frameworks and protocols*.  I'm deeply concerned with digital networking tech, but I prioritize *culture* and *social standards* which integrate consent-based organizing, compassionate communications and transformative justice.
+###### I'm an artist and philosopher who gradually became a *peer-to-peer systems designer and facilitator*, through many painful learning experiences in underachieving teams.  I develop open source, interoperable *p2p organizing frameworks and protocols*.  I'm deeply concerned with digital networking tech, but I prioritize *culture* and *social standards* which integrate consent-based organizing, compassionate communications and transformative justice.
 
-###### I participate in varied team projects, but my current main works are the open source p2p organizing frameworks below.
+###### I participate in varied team projects, but my current main works are the open source p2p organizing frameworks listed below.
 	
 ### Current Main Works: P2P Organizing Frameworks
 
@@ -32,11 +32,11 @@
 		
 ###### CBG is a framework of principles and practices for developing consent-based agreements and collectives/ organizations.  In consent-based governance, *all* tools and techniques which restrict the use of collective resources, or modify such restrictions, should be determined by the direct written consent of each of the collective’s active governing members.
 		
-###### CBG is a radical evolution of anarchism theory, meant to scale for a digitally networked world.  I think that anarchism is urgently important and *now feasible* at massively networked scales, via the modular networking which I suggest in IGF (see below) and other works.
+###### CBG is a radical evolution of anarchism theory, meant to scale for a digitally networked world.  I think that anarchism is urgently important and *now feasible* at massively networked scales, via the modular networking which I suggest in Inclusive Governance Framework (see below) and other works.
 		
 #### [Resource Support Framework](https://docs.google.com/drawings/d/1frX5ay_adnhdmaSbqCr-Z63_f1o7xyZN4e8IdI2hcts/edit?usp=sharing) (RSF)
 
-###### RSF is a generic system for collaboratively developing and supporting any type of resource.  RSF integrates subsidiary models for Personal Experience, Inclusive Dialogue, Inclusive Design (see IDF below) and Social Support Systems.  RSF integrates compassionate conflict resolution and transformative justice principles.
+###### RSF is a generic system for collaboratively developing and supporting any type of resource.  RSF integrates subsidiary models for Personal Experience, Inclusive Dialogue, Inclusive Design (see Inclusive Design Framework below) and Social Support Systems.  RSF integrates compassionate conflict resolution and transformative justice principles.
 
 #### [Inclusive Design Framework](https://docs.google.com/document/d/1E5V8LggadbbAaJw9tK_OT22VyciO4OE9ml1fiXYyfmk/edit?usp=sharing)  (IDF)
 	
@@ -52,13 +52,13 @@
 	
 #### [Inclusive Channel Policy](https://docs.google.com/document/d/1w9OkvXv7A89bySQT9e8iFWWp1TIkhUCUpTI6PwRpX20/edit?usp=sharing) (ICP)
 		
-###### ICP functions as a simple, practical constitution for media channels which aren’t attached to other governing bodies.  It can also serve as the core organizing kernel for complex collectives and networks. (See also IGF below.)
+###### ICP functions as a simple, practical constitution for media channels which aren’t attached to other governing bodies.  It can also serve as the core organizing kernel for complex collectives and networks. (See also Inclusive Governance Framework below.)
 	
 #### [Inclusive Governance Framework](https://docs.google.com/document/d/1cU0557pbNOAI2eco2Ura3HXdxC2v-SJBWMHYaGMHMtA/edit?usp=sharing) (IGF)
 
 ###### IGF builds on the organizing kernel of ICP with collective levels of organizing.  IGF suggests a general *Guest/Contributor/Member/Steward* participation model, meant to facilitate consent-based governance of complex collectives and of their media networks.
 
-###### IGF is ambitiously meant to enable consent-based collectives (see CBG) and networks to scale to any possible size and complexity.  It could become my most important work, although it depends heavily on others.
+###### IGF is ambitiously meant to enable consent-based collectives (see CBG) and networks to scale to any possible size and complexity.  
 		
 #### [Collective Media Markup Language](https://docs.google.com/document/d/1H55a5TncjaXhyBi9Bf-Uwslce5_FRhOY3BUk5t1rbRg/edit?usp=sharing) (CMML), Structured Conversation and [Collective Resource Description Framework](https://github.com/gcassel/Models/blob/master/collective-resource-description-framework.md) (CRDF)
 	
