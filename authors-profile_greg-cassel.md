@@ -18,11 +18,11 @@
 		
 #### [P2P Modular Organizing Framework](https://docs.google.com/drawings/d/1KZpc4_98IrJ0cjcFpkL5TcBug63fsTrT6i5eL2j5z80/edit?usp=sharing)  (MOF)
 	
-###### MOF is a visual directory for my other organizing frameworks. It's based on levels of conceptual organizing (*language, recipe, plan and governance*) which integrate p2p organizing frameworks with models for community ecosystems and distributed computing.
+###### MOF is a visual directory for my other organizing frameworks. It's based on levels of conceptual organizing (*language, recipe, plan and governance*) which integrate p2p organizing frameworks with models representing *community ecosystems* and *distributed computing systems*.
 
 #### [Modular Organizing Terminology](https://github.com/gcassel/Modular-Organizing-Terminology) (MOT)
 	
-###### MOT is a generalized formal vocabulary for organizing and design.  It's essential for fostering clarity and consistency in my creative processes, including all of my p2p organizing models.
+###### MOT is a generalized formal vocabulary for organizing and design work.  It's essential for fostering clarity and consistency in my personal and collaborative creative processes, including all of my p2p organizing models.
 		
 ###### As of February 2019, MOT includes over 550 heavily cross-linked definitions. Some version of it could become practically usable as a formal language unto itself, if some basic grammar and semantic links were refined for that purpose.	
 
