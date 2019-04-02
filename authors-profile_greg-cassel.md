@@ -14,6 +14,8 @@
 
 ###### I've participated in diverse communities and team projects including Library of the Commons, Value Flows, Open App Ecosystem, Collaborative Technology Alliance, the Enspiral Network, Classroom Graffiti Productions, and lots of volunteer social media administration positions.
 
+##### I love to garden and hike.  Someday, when p2p organizing resources are much better developed and appreciated, I hope to focus on developing "Penumbral": a massively multiparticipant world-building, co-authorship and interactive adventure network.
+
 ###### My current main works are the open source p2p organizing frameworks listed below.
 	
 ### Current Main Works: P2P Organizing Vocabulary and Frameworks
