@@ -18,7 +18,7 @@ I love to garden and hike.  Someday, when p2p organizing resources are much bett
 	
 ### Current Main Works: P2P Organizing Vocabulary and Frameworks
 
-Each of the following p2p organizing frameworks could enable or facilitate the development of p2p organizing structures and activities, including resources and systems of any type and any complexity.	
+Each of the following p2p organizing frameworks could enable or facilitate the development of p2p organizing structures and activities, including resources and systems of any type at all levels of complexity.
 
 #### [Modular Organizing Terminology](https://github.com/gcassel/Modular-Organizing-Terminology) (MOT)
 	
