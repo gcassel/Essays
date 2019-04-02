@@ -10,15 +10,15 @@
 
 #### About Me
 	
-###### I'm lifelong artist and philosopher, and I've become an *organizing systems engineer and facilitator* through challenging learning experiences in underachieving activist groups.  I focus on developing and using open source, interoperable *p2p organizing frameworks and protocols*.  I'm deeply concerned with digital networking tools, but I prioritize *culture* and *social standards* which integrate consent-based organizing, compassionate communications and transformative justice.
+I'm lifelong artist and philosopher, and I've become an *organizing systems engineer and facilitator* through challenging learning experiences in underachieving activist groups.  I focus on developing and using open source, interoperable *p2p organizing frameworks and protocols*.  I'm deeply concerned with digital networking tools, but I prioritize *culture* and *social standards* which integrate consent-based organizing, compassionate communications and transformative justice.
 
-###### I've participated in diverse communities and team projects including Library of the Commons, Value Flows, Open App Ecosystem, Collaborative Technology Alliance, the Enspiral Network, Classroom Graffiti Productions, and lots of volunteer social media administration positions.
+I've participated in diverse communities and team projects including Library of the Commons, Value Flows, Open App Ecosystem, Collaborative Technology Alliance, the Enspiral Network, Classroom Graffiti Productions, and lots of volunteer social media administration positions.
 
-###### I love to garden and hike.  Someday, when p2p organizing resources are much better developed and appreciated, I'd love to focus on developing "Penumbral": a massively multiparticipant world-building, co-authorship and interactive adventure network.
+I love to garden and hike.  Someday, when p2p organizing resources are much better developed and appreciated, I'd love to focus on developing "Penumbral": a massively multiparticipant world-building, co-authorship and interactive adventure network.
 	
 ### Current Main Works: P2P Organizing Vocabulary and Frameworks
 
-###### Each of the following p2p organizing frameworks could enable or facilitate the development of p2p organizing structures and activities, including resources and systems of any type and any complexity.	
+Each of the following p2p organizing frameworks could enable or facilitate the development of p2p organizing structures and activities, including resources and systems of any type and any complexity.	
 
 #### [Modular Organizing Terminology](https://github.com/gcassel/Modular-Organizing-Terminology) (MOT)
 	
