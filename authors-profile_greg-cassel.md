@@ -10,7 +10,7 @@
 
 #### About Me
 	
-###### I'm an artist and philosopher who gradually became a *peer-to-peer systems designer and facilitator*, through many painful learning experiences in underachieving teams.  I develop open source, interoperable *p2p organizing frameworks and protocols*.  I'm deeply concerned with digital networking tech, but I prioritize *culture* and *social standards* which integrate consent-based organizing, compassionate communications and transformative justice.
+###### I'm an artist and philosopher.  I've become a *p2p organizing systems engineer and facilitator* through challenging learning experiences in many underachieving teams.  I develop open source, interoperable *p2p organizing frameworks and protocols*.  I'm deeply concerned with digital networking tech, but I prioritize *culture* and *social standards* which integrate consent-based organizing, compassionate communications and transformative justice.
 
 ###### I participate in varied team projects, but my current main works are the open source p2p organizing frameworks listed below.
 	
