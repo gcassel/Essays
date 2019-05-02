@@ -10,7 +10,7 @@
 
 #### About Me
 	
-I'm lifelong artist and philosopher, and I've become an *organizing systems engineer and facilitator* through challenging learning experiences in underachieving activist groups.  I focus on developing and using open source, interoperable *p2p organizing frameworks and protocols*.  I'm deeply concerned with digital networking tools, but I prioritize *culture* and *social standards* which integrate consent-based organizing, compassionate communications and transformative justice.
+I'm lifelong artist and philosopher.  I've become a *p2p organizing systems engineer and facilitator* through challenging learning experiences in underachieving activist groups.  I focus on developing and using open source, interoperable *p2p organizing frameworks and protocols*.  I'm deeply concerned with digital networking tools, but I prioritize *culture* and *social standards* which integrate consent-based organizing, compassionate communications and transformative justice.
 
 I've participated in diverse communities and team projects including Library of the Commons, Value Flows, Open App Ecosystem, Collaborative Technology Alliance, the Enspiral Network, Classroom Graffiti Productions, and lots of volunteer social media administration positions.
 
