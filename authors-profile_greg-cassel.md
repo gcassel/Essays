@@ -38,13 +38,13 @@ Each of the following p2p organizing frameworks could enable or facilitate the d
 		
 #### [Resource Support Framework](https://docs.google.com/drawings/d/1frX5ay_adnhdmaSbqCr-Z63_f1o7xyZN4e8IdI2hcts/edit?usp=sharing) (RSF)
 
-###### RSF is a generic system for collaboratively developing and supporting any type of resource.  RSF integrates subsidiary models for Personal Experience, Inclusive Dialogue, Inclusive Design (see Inclusive Design Framework below) and Social Support Systems.  RSF integrates compassionate conflict resolution and transformative justice principles.
+###### RSF is a generic system for collaboratively developing and supporting any type of resource.  RSF integrates subsidiary models for Personal Experience, Inclusive Dialogue, Inclusive Action (see Inclusive Action Framework below) and Social Support Systems.  RSF integrates compassionate conflict resolution and transformative justice principles.
 
-#### [Inclusive Design Framework](https://docs.google.com/document/d/1E5V8LggadbbAaJw9tK_OT22VyciO4OE9ml1fiXYyfmk/edit?usp=sharing)  (IDF)
+#### [Inclusive Action Framework](https://docs.google.com/document/d/1E5V8LggadbbAaJw9tK_OT22VyciO4OE9ml1fiXYyfmk/edit?usp=sharing)  (IAF)
 	
-###### IDF suggests a standardized iterative process for inclusively designing and developing specific resources, including shared goals and media items such as written agreements.  IDF includes but transcends governance; it suggests ongoing co-creative dialogue between designers, collectives and communities.
+###### IAF suggests a standardized iterative process for inclusively designing and developing specific resources, including shared goals and media items such as written agreements.  IAF includes but transcends governance; it suggests ongoing co-creative dialogue between designers, collectives and communities.
 		
-###### IDF functions as a primary component of RSF. IDF also functions as a basic suggested protocol for inclusively developing proposals in CBG.
+###### IAF functions as a primary component of RSF. IAF also functions as a basic suggested protocol for inclusively developing proposals in CBG.
 		
 #### [Inclusive Meeting and Event Framework](https://docs.google.com/document/d/1bsobPV43r4rZ1GBkxmtwl1j7Zdn6qQhJZD0ta85Kw2I/edit?usp=sharing) (IMEF)
 	
