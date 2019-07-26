@@ -66,7 +66,7 @@ This section is about moving forward together.
 
 ### Shared Creative Frameworks
 
-To develop p2p networking and nonlinear dialogue, I think that our most important tool will be a broadly consistent and flexible [P2P Resource Description Framework](https://github.com/gcassel/Models/blob/master/p2p-resource-description-framework.md). However, any such tool(s) will require flexibly related tools and techniques, including resilient [distributed media hosting](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/distributed media hosting.md) and network service provider standards.
+To develop p2p networking and nonlinear dialogue, I think that our most important tool will be a broadly consistent and flexible [Collective Resource Description Framework](https://github.com/gcassel/Models/blob/master/collective-resource-description-framework.md). However, any such tool(s) will require flexibly related tools and techniques, including resilient [distributed media hosting](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/distributed media hosting.md) and network service provider standards.
 
 Regardless, we must build shared understanding of the importance of [specifications](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specification.md) and [standards](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/standard.md), including communications [protocols](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/protocol.md), as keystones of all sustainably modular and distributed systems. We must learn to cooperatively develop protocols not platforms, and to practice communication not control.
 
