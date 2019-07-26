@@ -26,9 +26,9 @@ Each of the following p2p organizing frameworks could enable or facilitate the d
 		
 ###### As of February 2019, MOT includes over 550 heavily cross-linked definitions. Some version of it could become practically usable as a formal language unto itself, if some basic grammar and semantic links were refined for that purpose.
 
-#### [P2P Modular Organizing Framework](https://docs.google.com/drawings/d/1KZpc4_98IrJ0cjcFpkL5TcBug63fsTrT6i5eL2j5z80/edit?usp=sharing)  (MOF)
+#### [P2P Modular Organizing Diagram](https://docs.google.com/drawings/d/1KZpc4_98IrJ0cjcFpkL5TcBug63fsTrT6i5eL2j5z80/edit?usp=sharing)  (MOD)
 	
-###### MOF is a visual directory for my other organizing frameworks. It's based on levels of conceptual organizing (*language, recipe, plan and governance*) which integrate p2p organizing frameworks with models representing *community ecosystems* and *distributed computing systems*.	
+###### MOD is a visual directory for my other organizing frameworks. It's based on levels of conceptual organizing (*language, recipe, plan and governance*) which integrate p2p organizing frameworks with models representing *community ecosystems* and *distributed computing systems*.	
 
 #### [Consent-Based Governance](https://docs.google.com/document/d/1c_xWEIay-2jyJ3Rqb6OgTxoZBJfjNW4d6w6ukXyeJk4/edit?usp=sharing) (CBG)
 		
