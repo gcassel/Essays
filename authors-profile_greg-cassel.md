@@ -2,7 +2,7 @@
 
 #### Name
 	
-###### Greg Cassel, Greg S. Cassel
+###### Greg Cassel, Greg S Cassel
 	
 #### Contact Info
 	
