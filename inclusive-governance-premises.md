@@ -1,8 +1,8 @@
 # Inclusive Governance Premises
 
-Author: Greg S Cassel
-* published on [Medium](https://medium.com/@gregcassel_21265/inclusive-governance-premises-80f18428575d) July 2, 2019
-* This text is openly licensed via [Creative Commons CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+##### Author: Greg S Cassel
+##### * published on [Medium](https://medium.com/@gregcassel_21265/inclusive-governance-premises-80f18428575d) July 2, 2019
+##### * This text is openly licensed via [Creative Commons CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## Pathways to Participation
 ### The problem
