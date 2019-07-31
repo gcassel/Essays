@@ -8,7 +8,7 @@ Author: Greg S Cassel
 
 ## Pathways to Participation
 ### The problem
-We can develop ungoverned digital networks through open technical standards such as [http](https://tools.ietf.org/html/rfc7230), but ungoverned networks have failed to create much *systemic coherence* and shared value.  
+We can develop ungoverned digital networks through valuable technical standards such as [http](https://tools.ietf.org/html/rfc7230), but ungoverned networks have failed to create much *systemic coherence* and shared value.  
 
 By contrast, much digital activity currently runs through [bureaucracies](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/bureaucracy.md) of all sizes, including Facebook, Google and Amazon.  Such digital empires rule with technically absolute authority over their users’ diversely governed subsystems such as specific facebook groups, Google Drives, etcetera.   
 
