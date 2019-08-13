@@ -26,6 +26,10 @@ Each of the following p2p organizing frameworks could enable or facilitate the d
 		
 ###### As of February 2019, MOT includes over 550 heavily cross-linked definitions. Some version of it could become practically usable as a formal language unto itself, if some basic grammar and semantic links were refined for that purpose.
 
+#### [Inclusive Organizing Framework](https://docs.google.com/document/d/1_KwMbdghVVv1FODuy21QsXXXHsAKTLGc0YGT64oh0mg/edit?usp=sharing) (IOF)
+
+###### IOF is a developmental framework which suggests a methodical process for inclusively and scalably developing a distributed collective.  IOF is a "framework of frameworks" which incorporates other frameworks below as components.
+
 #### [P2P Modular Organizing Diagram](https://docs.google.com/drawings/d/1KZpc4_98IrJ0cjcFpkL5TcBug63fsTrT6i5eL2j5z80/edit?usp=sharing)  (MOD)
 	
 ###### MOD is a visual directory for my other organizing frameworks. It's based on levels of conceptual organizing (*language, recipe, plan and governance*) which integrate p2p organizing frameworks with models representing *community ecosystems* and *distributed computing systems*.	
@@ -54,11 +58,15 @@ Each of the following p2p organizing frameworks could enable or facilitate the d
 	
 #### [Inclusive Channel Policy](https://docs.google.com/document/d/1w9OkvXv7A89bySQT9e8iFWWp1TIkhUCUpTI6PwRpX20/edit?usp=sharing) (ICP)
 		
-###### ICP functions as a simple, practical constitution for media channels which aren’t attached to other governing bodies.  It can also serve as the core organizing kernel for complex collectives and networks. (See also Inclusive Governance Framework below.)
+###### ICP functions as a simple, practical constitution for media channels which aren’t attached to other governing bodies.  It can also serve as the core organizing kernel for complex collectives and networks. (See also IGF below.)
 	
 #### [Inclusive Governance Framework](https://docs.google.com/document/d/1cU0557pbNOAI2eco2Ura3HXdxC2v-SJBWMHYaGMHMtA/edit?usp=sharing) (IGF)
 
 ###### IGF builds on the organizing kernel of ICP with collective levels of organizing.  IGF suggests a general *Guest/Contributor/Member/Steward* participation model, meant to facilitate consent-based governance of complex collectives and of their media networks.
+
+#### [Collective Media Network Framework](https://docs.google.com/document/d/1_HztFXAWXtgiHnpBj7DxszNawKs8N0BPvv8fDxlMcE0/edit?usp=sharing) (CMNF)
+
+###### CMNF is a developmental framework which suggests basic media networking processes and resources for large ongoing collectives.  CMNF is intended both for active collectives, which might or might not have much official structure, and for new collectives which emerge through IGF or other organizing models.CMNF is an IGF component.  
 
 ###### IGF is ambitiously meant to enable consent-based collectives (see CBG) and networks to scale to any possible size and complexity.  
 		
