@@ -10,9 +10,9 @@
 
 #### About Me
 	
-I'm lifelong artist and philosopher.  I've become a *p2p organizing systems engineer and facilitator* through challenging learning experiences in underachieving activist groups.  I focus on developing and using open source, interoperable *p2p organizing frameworks and protocols*.  I'm deeply concerned with digital networking tools, but I prioritize *culture* and *social standards* which integrate consent-based organizing, compassionate communications and transformative justice.
+I'm lifelong artist and philosopher.  I've become an *inclusive organizing systems engineer and facilitator*, an occupation which I independently discovered/invented, through a variety of difficult experiences in underachieving activist groups from 2013 onward.  I focus on developing and using open source, interoperable *p2p organizing frameworks and protocols*.  I'm deeply concerned with digital networking tools, but I prioritize *culture* and *social standards* which integrate consent-based organizing, compassionate communications and transformative justice.
 
-I've participated in diverse communities and team projects including Library of the Commons, Value Flows, Open App Ecosystem, Collaborative Technology Alliance, the Enspiral Network, Classroom Graffiti Productions, and lots of volunteer social media administration positions.
+I've participated in diverse communities and team projects including Library of the Commons, Value Flows, Open App Ecosystem, Collaborative Technology Alliance, the Enspiral Network, Classroom Graffiti Productions, and lots of volunteer social media administration positions.  I'm a partner in Koru Consulting, working mainly with JustOne Organics™ at this time.
 
 I love to garden and hike.  Someday, when p2p organizing resources are much better developed and appreciated, I'd love to focus on developing "Penumbral": a massively multiparticipant world-building, co-authorship and interactive adventure network.
 	
