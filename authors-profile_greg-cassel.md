@@ -74,8 +74,8 @@ Each of the following p2p organizing frameworks could enable or facilitate the d
 	
 ###### These are major works for digital networking in general, although they're only indirectly relevant to my current focus on social standards.
 		
-###### *CMML* suggests protocols to attach metadata to media resources, and to develop more intelligent and effective p2p distributed databases. CMML currently includes Structured Conversation, which suggests standards for organizing and networking conversations for action. 
-###### *CRDF* is a potential output of CMML, enabling specific media items to be as portable as possible for fully distributed computing and networking.
+###### *CMML* suggests protocols to attach metadata to media resources, and to develop more intelligent and effective p2p distributed databases. CMML currently includes Structured Conversation, which suggests standards for organizing and networking conversations for action. I'll move Structured Conversation in its own document if and when that becomes desirable due to its length, level of detail and systemic functions.
+###### *CRDF* is a *potential product of CMML* which could enable specific media items to be as portable as possible for fully distributed computing and networking.
 					
 ### Other Collective Goals
 ###### *[see link](https://github.com/gcassel/Essays/blob/master/collective-goals.md)*
