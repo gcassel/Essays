@@ -30,9 +30,9 @@ Each of the following p2p organizing frameworks could enable or facilitate the d
 
 ###### IOF is a developmental framework which suggests a methodical process for inclusively and scalably developing a distributed collective.  IOF is a "framework of frameworks" which incorporates other frameworks below as components.
 
-#### [P2P Modular Organizing Diagram](https://docs.google.com/drawings/d/1KZpc4_98IrJ0cjcFpkL5TcBug63fsTrT6i5eL2j5z80/edit?usp=sharing)  (MOD)
+#### [Inclusive Organizing Diagram](https://docs.google.com/drawings/d/1-WFMRYdueSBba1atcohX0G585zj-gBNlBvZQBqnEmEs/edit?usp=sharing)  (MOD)
 	
-###### MOD is a visual directory for my other organizing frameworks. It's based on levels of conceptual organizing (*language, recipe, plan and governance*) which integrate p2p organizing frameworks with models representing *community ecosystems* and *distributed computing systems*.	
+###### IOD is a visual directory for my other organizing frameworks. It's based on levels of conceptual organizing (*language, recipe, plan and governance*) which integrate inclusive p2p organizing frameworks with models representing *community ecosystems* and *distributed computing systems*.	
 
 #### [Consent-Based Governance](https://docs.google.com/document/d/1c_xWEIay-2jyJ3Rqb6OgTxoZBJfjNW4d6w6ukXyeJk4/edit?usp=sharing) (CBG)
 		
