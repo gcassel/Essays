@@ -1,3 +1,5 @@
+# A Great Time to Start Gardening
+
 Our COVID-19 crisis is already tragic and terribly risky, but as some have noted, it brings under-realized potentials to immediate attention. What a great time to start gardening! Many are gaining increased awareness of the interdependent web of all life, and of the fragility of our upstart and exploitative species.
 
 Perhaps free proactive health care will become a much more popular (and, therefore, realistic) idea. We can develop crisis management and survival skills in preparation for other, possibly bigger crises involving energy, climate, violence and natural disasters. Many have already begun adapting for the [Tower Time](http://www.myvillagewitch.com/the-tower-time-documents-uncut/?fbclid=IwAR3O47p7IzNBebgGJGMPGeZULkVDFYNiu3mryTqo6B3UrnAEITM3oTIyCV4) described by the brilliant witch Byron Ballard. Perhaps we haven't been preparing enough, or in the wisest ways, but now we're extra motivated!
