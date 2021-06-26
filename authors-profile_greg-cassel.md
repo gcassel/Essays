@@ -26,11 +26,7 @@ Each of the following p2p organizing frameworks could enable or facilitate the d
 		
 ###### As of February 2019, MOT includes over 550 heavily cross-linked definitions. Some version of it could become practically usable as a formal language unto itself, if some basic grammar and semantic links were refined for that purpose.
 
-#### [Inclusive Organizing Framework](https://docs.google.com/document/d/1_KwMbdghVVv1FODuy21QsXXXHsAKTLGc0YGT64oh0mg/edit?usp=sharing) (IOF)
-
-###### IOF is a developmental framework which suggests a methodical process for inclusively and scalably developing a distributed collective.  IOF is a "framework of frameworks" which incorporates other frameworks below as components.
-
-#### [Inclusive Organizing Diagram](https://docs.google.com/drawings/d/1-WFMRYdueSBba1atcohX0G585zj-gBNlBvZQBqnEmEs/edit?usp=sharing)  (MOD)
+#### [Inclusive Framework](https://docs.google.com/drawings/d/1-WFMRYdueSBba1atcohX0G585zj-gBNlBvZQBqnEmEs/edit?usp=sharing)  (MOD)
 	
 ###### IOD is a visual directory for my other organizing frameworks. It's based on levels of conceptual organizing (*language, recipe, plan and governance*) which integrate inclusive p2p organizing frameworks with models representing *community ecosystems* and *distributed computing systems*.	
 
