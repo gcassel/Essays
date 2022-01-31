@@ -10,70 +10,21 @@
 
 #### About Me
 	
-I'm lifelong artist and philosopher.  I've become an *inclusive organizing systems engineer and facilitator*, an occupation which I independently discovered/invented, through a variety of difficult experiences in underachieving activist groups from 2013 onward.  I focus on developing and using open source, interoperable *p2p organizing frameworks and protocols*.  I'm deeply concerned with digital networking tools, but I prioritize *culture* and *social standards* which integrate consent-based organizing, compassionate communications and transformative justice.
+Greg Cassel is an inclusive organizing systems designer, engineer and facilitator.  He builds and supports communications and digital networking tools which prioritize consent-based organizing, compassionate communications and transformative justice.  Greg’s current main focus is to develop simple, flexible, open source toolsets for inclusive discussion, design and decision at all scales of organization.  
 
-I've participated in diverse communities and team projects including Library of the Commons, Value Flows, Open App Ecosystem, Collaborative Technology Alliance, the Enspiral Network, Classroom Graffiti Productions, and lots of volunteer social media administration positions.  I'm a partner in Koru Consulting, working mainly with JustOne Organics™ at this time.
+Greg has written for P2P Foundation and participated deeply in diverse “next economy” communities and teams including Library of the Commons, Value Flows, Open App Ecosystem, Collaborative Technology Alliance and the Enspiral Network.  Greg studied political science, film and video production, and media theory in college.  Previously, he provided years of award-winning direct care for developmentally disabled adults.  Greg has a deep background in philosophy and art which informs his ongoing work in theory of language and organizing systems.
 
-I love to garden and hike.  Someday, when p2p organizing resources are much better developed and appreciated, I'd love to focus on developing "Penumbral": a massively multiparticipant world-building, co-authorship and interactive adventure network.
+Greg is passionately devoted to permaculture, the support of local wildlife ecosystems, and the emergence of boundlessly regenerative and creative global culture.  Someday, when the shared pursuit of these goals seems globally secure, resilient and effective, Greg hopes to focus more on his dream project of "Penumbral", a massively multi-participant world-building, co-authorship and interactive adventure network.
 	
-### Current Main Works: P2P Organizing Vocabulary and Frameworks
+#### Current Main Works: Inclusive Organizing Frameworks
 
-Each of the following p2p organizing frameworks could enable or facilitate the development of p2p organizing structures and activities, including resources and systems of any type at all levels of complexity.
+**[Inclusive Organizing Frameworks](https://docs.google.com/drawings/d/1-WFMRYdueSBba1atcohX0G585zj-gBNlBvZQBqnEmEs/edit?usp=sharing)** (IOF) is a network of linked organizational developmental frameworks/ schemata , along with models for levels of design, collective resource development and a distributive digital networking technology stack.  The key focal point of my IOF design work recently is the development of [Modular Governance Recipe](https://docs.google.com/document/d/17ssWfsuaKQkytdW1q83qKzEjxrY-BoreREch46JOMQY/edit?usp=sharing) and a network of modularly-related support documents, including [Describing Resources and Systems](https://docs.google.com/document/d/1ILVbleFo65PMaF6e4qg6c617BgzLX2bW4r_c3nDhwAU/edit?usp=sharing), which can be used for paper-based project management as well as digital systems.
 
-#### [Modular Organizing Terminology](https://github.com/gcassel/Modular-Organizing-Terminology) (MOT)
-	
-###### MOT is a generalized formal vocabulary for organizing and design work.  It fosters clarity and consistency in my personal and collaborative creative processes, including all of my p2p organizing models.
-		
-###### As of February 2019, MOT includes over 550 heavily cross-linked definitions. Some version of it could become practically usable as a formal language unto itself, if some basic grammar and semantic links were refined for that purpose.
+#### Team Projects
 
-#### [Inclusive Framework](https://docs.google.com/drawings/d/1-WFMRYdueSBba1atcohX0G585zj-gBNlBvZQBqnEmEs/edit?usp=sharing)  (MOD)
-	
-###### IOD is a visual directory for my other organizing frameworks. It's based on levels of conceptual organizing (*language, recipe, plan and governance*) which integrate inclusive p2p organizing frameworks with models representing *community ecosystems* and *distributed computing systems*.	
+I'm currently involved in a handful of team projects related to my work, and working to extend my networking and collaborative processes.
 
-#### [Consent-Based Governance](https://docs.google.com/document/d/1c_xWEIay-2jyJ3Rqb6OgTxoZBJfjNW4d6w6ukXyeJk4/edit?usp=sharing) (CBG)
-		
-###### CBG is a framework of principles and practices for developing consent-based agreements and collectives/ organizations.  In consent-based governance, *all* tools and techniques which restrict the use of collective resources, or modify such restrictions, should be determined by the direct written consent of each of the collective’s active governing members.
-		
-###### CBG is a radical evolution of anarchism theory, meant to scale for a digitally networked world.  I think that anarchism is urgently important and *now feasible* at massively networked scales, via the modular networking which I suggest in Inclusive Governance Framework (see below) and other works.
-		
-#### [Resource Support Framework](https://docs.google.com/drawings/d/1frX5ay_adnhdmaSbqCr-Z63_f1o7xyZN4e8IdI2hcts/edit?usp=sharing) (RSF)
-
-###### RSF is a generic system for collaboratively developing and supporting any type of resource.  RSF integrates subsidiary models for Personal Experience, Inclusive Dialogue, Inclusive Action (see Inclusive Action Framework below) and Social Support Systems.  RSF integrates compassionate conflict resolution and transformative justice principles.
-
-#### [Inclusive Action Framework](https://docs.google.com/document/d/1E5V8LggadbbAaJw9tK_OT22VyciO4OE9ml1fiXYyfmk/edit?usp=sharing)  (IAF)
-	
-###### IAF suggests a standardized iterative process for inclusively designing and developing specific resources, including shared goals and media items such as written agreements.  IAF includes but transcends governance; it suggests ongoing co-creative dialogue between designers, collectives and communities.
-		
-###### IAF functions as a primary component of RSF. IAF also functions as a basic suggested protocol for inclusively developing proposals in CBG.
-		
-#### [Inclusive Meeting and Event Framework](https://docs.google.com/document/d/1bsobPV43r4rZ1GBkxmtwl1j7Zdn6qQhJZD0ta85Kw2I/edit?usp=sharing) (IMEF)
-	
-###### IMEF is a basic co-creative framework and recipe for hosting and facilitating inclusive discussion and design meetings and events with many p2p inputs.  
-		
-###### IMEF functions in IDF to coordinate relationships between live events and asynchronous, sequential processes.
-	
-#### [Inclusive Channel Policy](https://docs.google.com/document/d/1w9OkvXv7A89bySQT9e8iFWWp1TIkhUCUpTI6PwRpX20/edit?usp=sharing) (ICP)
-		
-###### ICP functions as a simple, practical constitution for media channels which aren’t attached to other governing bodies.  It can also serve as the core organizing kernel for complex collectives and networks. (See also IGF below.)
-	
-#### [Inclusive Governance Framework](https://docs.google.com/document/d/1cU0557pbNOAI2eco2Ura3HXdxC2v-SJBWMHYaGMHMtA/edit?usp=sharing) (IGF)
-
-###### IGF builds on the organizing kernel of ICP with collective levels of organizing.  IGF suggests a general *Guest/Contributor/Member/Steward* participation model, meant to facilitate consent-based governance of complex collectives and of their media networks.
-
-#### [Collective Media Network Framework](https://docs.google.com/document/d/1_HztFXAWXtgiHnpBj7DxszNawKs8N0BPvv8fDxlMcE0/edit?usp=sharing) (CMNF)
-
-###### CMNF is a developmental framework which suggests basic media networking processes and resources for large ongoing collectives.  CMNF is intended both for active collectives, which might or might not have much official structure, and for new collectives which emerge through IGF or other organizing models.CMNF is an IGF component.  
-
-###### IGF is ambitiously meant to enable consent-based collectives (see CBG) and networks to scale to any possible size and complexity.  
-		
-#### [Collective Media Markup Language](https://docs.google.com/document/d/1H55a5TncjaXhyBi9Bf-Uwslce5_FRhOY3BUk5t1rbRg/edit?usp=sharing) (CMML), Structured Conversation and [Collective Resource Description Framework](https://github.com/gcassel/Models/blob/master/collective-resource-description-framework.md) (CRDF)
-	
-###### These are major works for digital networking in general, although they're only indirectly relevant to my current focus on social standards.
-		
-###### *CMML* suggests protocols to attach metadata to media resources, and to develop more intelligent and effective p2p distributed databases. CMML currently includes Structured Conversation, which suggests standards for organizing and networking conversations for action. I'll move Structured Conversation in its own document if and when that becomes desirable due to its length, level of detail and systemic functions.
-###### *CRDF* is a *potential product of CMML* which could enable specific media items to be as portable as possible for fully distributed computing and networking.
-					
-### Other Collective Goals
+#### Other Collective Goals
 ###### *[see link](https://github.com/gcassel/Essays/blob/master/collective-goals.md)*
 
 
