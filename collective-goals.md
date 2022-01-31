@@ -12,10 +12,6 @@ A [Bridge the Divide](https://www.facebook.com/groups/bridgethedivide/) equivale
 
 Reclaiming Georgia is a nascent potential regional *cell* (unit) of the Reclaiming Tradition of witchcraft.  (I'm a pagan, witch, druid and Buddhist.)
 
-#### UUA Resources
-
-I hope to help [Unitarian Universalism Association](https://www.uua.org/) (I'm a member) develop its online resources through increasingly [inclusive design process](https://github.com/gcassel/Models/blob/master/inclusive-design-framework.md).
-
 #### Basic Needs
  
 Help develop collectives which co-generate commonly guaranteed basic needs, such as: housing, food, education, medical care, and/or income.   (Starting with small teams, and potentially scaling to globally guaranteed needs.)
