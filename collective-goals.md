@@ -8,6 +8,10 @@ Open Intermedia Commons (OIC) will be an open standard, community, and a network
 
 A [Bridge the Divide](https://www.facebook.com/groups/bridgethedivide/) equivalent, but not on facebook, and including live empathy-building talks.  For bridging discussions on challenging social & political issues.
 
+#### Reclaiming Georgia
+
+Reclaiming Georgia is a nascent potential regional *cell* (unit) of the Reclaiming Tradition of witchcraft.  (I'm a pagan, witch, druid and Buddhist.)
+
 #### UUA Resources
 
 I hope to help [Unitarian Universalism Association](https://www.uua.org/) (I'm a member) develop its online resources through increasingly [inclusive design process](https://github.com/gcassel/Models/blob/master/inclusive-design-framework.md).
@@ -16,14 +20,18 @@ I hope to help [Unitarian Universalism Association](https://www.uua.org/) (I'm a
  
 Help develop collectives which co-generate commonly guaranteed basic needs, such as: housing, food, education, medical care, and/or income.   (Starting with small teams, and potentially scaling to globally guaranteed needs.)
 
-#### Local Landscapes
+#### Localized Landscapes
 
-A federation of collectives supporting a well-developed open standard for native plant landscaping, native wildlife habitat and conservation easements. Focused on protecting at-risk native plants and animals, especially pollinators.
+A federation of collectives supporting a well-developed open standard for permacultural and local plant landscaping, local wildlife habitat and conservation easements. Focused on protecting at-risk native plants and animals, especially pollinators.
 	
 ### Interactive Multimedia Mapping and Storytelling 
 		
 #### Maine Waters  
 * and/or Southeastern Waters
 * develop a collaborative database and use metadata markup language to generate search, sort, filter and divergent multimedia storytelling sequences expressing the water cycle and contiguous biomes from mountaintops to open ocean.
+
+#### Open Creative Cloud
+
+A generic developmental framework for Penumbral (see below) and similar world-building and storytelling projects.
 
 #### [Penumbral](https://github.com/gcassel/Models/blob/master/penumbral.md) *(see link*)
