@@ -10,11 +10,11 @@
 
 #### About Me
 	
-Greg Cassel is an inclusive organizing systems designer, engineer and facilitator.  He builds and supports communications and digital networking tools which prioritize consent-based organizing, compassionate communications and transformative justice.  Greg’s current main focus is to develop simple, flexible, open source toolsets for inclusive discussion, design and decision at all scales of organization.  
+I'm an inclusive organizing systems designer, engineer and facilitator.  I build and support communications and digital networking tools which prioritize consent-based organizing, compassionate communications and transformative justice.  My current main focus is to develop simple, flexible, open source toolsets for inclusive discussion, design and decision at all scales of organization.  
 
-Greg has written for P2P Foundation and participated deeply in diverse “next economy” communities and teams including Library of the Commons, Value Flows, Open App Ecosystem, Collaborative Technology Alliance and the Enspiral Network.  Greg studied political science, film and video production, and media theory in college.  Previously, he provided years of award-winning direct care for developmentally disabled adults.  Greg has a deep background in philosophy and art which informs his ongoing work in theory of language and organizing systems.
+I've written for P2P Foundation and participated deeply in diverse “next economy” communities and teams including Library of the Commons, Value Flows, Open App Ecosystem, Collaborative Technology Alliance and the Enspiral Network.  I studied political science, film and video production, and media theory in college.  Previously, I provided years of award-winning direct care for developmentally disabled adults.  I have a deep background in philosophy and art which informs his ongoing work in theory of language and organizing systems.
 
-Greg is passionately devoted to permaculture, the support of local wildlife ecosystems, and the emergence of boundlessly regenerative and creative global culture.  Someday, when the shared pursuit of these goals seems globally secure, resilient and effective, Greg hopes to focus more on his dream project of "Penumbral", a massively multi-participant world-building, co-authorship and interactive adventure network.
+I'm passionately devoted to permaculture, the support of local wildlife ecosystems, and the emergence of boundlessly regenerative and creative global culture.  Someday, when the shared pursuit of these goals seems globally secure, resilient and effective, I hope to focus more on his dream project of "Penumbral", a massively multi-participant world-building, co-authorship and interactive adventure network.
 	
 #### Current Main Works: Inclusive Organizing Frameworks
 
