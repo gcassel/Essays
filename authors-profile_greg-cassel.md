@@ -16,9 +16,9 @@ I've written for P2P Foundation and participated deeply in diverse “next econo
 
 I'm passionately devoted to organic gardening, permaculture, the support of local wildlife ecosystems, and the emergence of boundlessly regenerative and creative global culture.  Someday, when the shared pursuit of these goals seems globally secure, resilient and effective, I hope to focus more on my dream project of "Penumbral", a massively multi-participant world-building, co-authorship and interactive adventure network.
 	
-#### Current Main Works: Inclusive Organizing Frameworks
+#### Current Main Works: Inclusive Organizing Framework
 
-**[Inclusive Organizing Frameworks](https://docs.google.com/drawings/d/1-WFMRYdueSBba1atcohX0G585zj-gBNlBvZQBqnEmEs/edit?usp=sharing)** (IOF) is a network of linked organizational developmental frameworks/ schemata , along with models for levels of design, collective resource development and a distributive digital networking technology stack.  The key focal point of my IOF design work recently is the development of [Modular Governance Recipe](https://docs.google.com/document/d/17ssWfsuaKQkytdW1q83qKzEjxrY-BoreREch46JOMQY/edit?usp=sharing) and a network of modularly-related support documents, including [Describing Resources and Systems](https://docs.google.com/document/d/1ILVbleFo65PMaF6e4qg6c617BgzLX2bW4r_c3nDhwAU/edit?usp=sharing), which can be used for paper-based project management as well as digital systems.
+**[Inclusive Organizing Framework](https://docs.google.com/drawings/d/1-WFMRYdueSBba1atcohX0G585zj-gBNlBvZQBqnEmEs/edit?usp=sharing)** (IOF) is a network of linked organizational developmental frameworks/ schemata , along with models for levels of design, collective resource development and a distributive digital networking technology stack.  The key focal point of my IOF design work recently is the development of [Modular Governance Recipe](https://docs.google.com/document/d/17ssWfsuaKQkytdW1q83qKzEjxrY-BoreREch46JOMQY/edit?usp=sharing) and a network of modularly-related support documents, including [Describing Resources and Systems](https://docs.google.com/document/d/1ILVbleFo65PMaF6e4qg6c617BgzLX2bW4r_c3nDhwAU/edit?usp=sharing), which can be used for paper-based project management as well as digital systems.
 
 #### Team Projects
 
